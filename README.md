@@ -4,7 +4,7 @@ A web application that provides crop-specific organic fertilizer recommendations
 # 🌱 Organic Fertilizer Guide – Informative Web Application
 
 ## 📌 Overview
-Organic Fertilizer Guide is a manually coded web application that provides clear and beginner-friendly information about organic fertilizers, their types, benefits, and sustainable agricultural usage. The website is designed with a clean interface to make learning about eco-friendly farming simple and accessible for students and general users.
+Organic Fertilizer Guide is a web application that provides clear and beginner-friendly information about organic fertilizers, their types, benefits, and sustainable agricultural usage. The website is designed with a clean interface to make learning about eco-friendly farming simple and accessible for students and general users.
 
 This project was built as part of my web development learning journey using pure frontend technologies and deployed successfully online.
 
@@ -74,6 +74,7 @@ open index.html
 - Integration with backend for advanced features  
 
 ---
+
 
 Poorvika H  
 B.E. Artificial Intelligence & Machine Learning Student  
